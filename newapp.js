@@ -1,5 +1,4 @@
 
-"use strict";
 const start = async () => {
   let algoValue = Number(document.querySelector(".algo-menu").value);
   let speedValue = Number(document.querySelector(".speed-menu").value);
