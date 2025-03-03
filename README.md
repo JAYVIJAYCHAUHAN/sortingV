@@ -17,10 +17,19 @@ A web-based sorting visualizer that helps you understand and visualize different
 - **Backend**: N/A (Frontend-based application)
 - **Styling**: CSS, Element Plus Components
 
-## 📷 Screenshots
+ ## 📸 Screenshots
 
-(Include a few screenshots of your sorting visualizer in action)
+### 🖼️ Image 1
+![Sorting Visualization](assets/image11.png)
 
+### 🖼️ Image 2
+![Sorting Visualization](assets/image22.png)
+
+### 🖼️ Image 3
+![Sorting Visualization](assets/image33.png)
+
+### 🖼️ Image 4
+![Sorting Visualization](assets/image44.png)
 ## 🔧 Installation
 
 Clone the repository and install dependencies:
