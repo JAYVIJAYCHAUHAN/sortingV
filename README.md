@@ -20,16 +20,16 @@ A web-based sorting visualizer that helps you understand and visualize different
  ## 📸 Screenshots
 
 ### 🖼️ Image 1
-![Sorting Visualization](assets/image11.png)
+![Sorting Visualization](assets/image11.PNG)
 
 ### 🖼️ Image 2
-![Sorting Visualization](assets/image22.png)
+![Sorting Visualization](assets/image22.PNG)
 
 ### 🖼️ Image 3
-![Sorting Visualization](assets/image33.png)
+![Sorting Visualization](assets/image33.PNG)
 
 ### 🖼️ Image 4
-![Sorting Visualization](assets/image44.png)
+![Sorting Visualization](assets/image44.PNG)
 ## 🔧 Installation
 
 Clone the repository and install dependencies:
