@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Sorting Visualizer
 
@@ -69,3 +70,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 For any issues or suggestions, feel free to open an issue or contact me at [Your Email or GitHub Profile].
 
+=======
+# sortingV
+>>>>>>> 9c92ea65ec8d97647d4ac80fc98ca1e3cdf9bc49
