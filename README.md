@@ -13,7 +13,7 @@ A web-based sorting visualizer that helps you understand and visualize different
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: Vue.js (Composition API), Element Plus
+- **Frontend**: Algorithms,Javascripts,Html
 - **Backend**: N/A (Frontend-based application)
 - **Styling**: CSS, Element Plus Components
 
@@ -37,16 +37,13 @@ Clone the repository and install dependencies:
 ```sh
 git clone https://github.com/JAYVIJAYCHAUHAN/sortingV.git
 cd sortingV
-npm install
 ```
 
 ## 📌 Usage
 
 Start the development server:
 
-```sh
-npm run dev
-```
+index.html
 
 Open your browser and visit `http://localhost:5173` (or the port displayed in the terminal).
 
